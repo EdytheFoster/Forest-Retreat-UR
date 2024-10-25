@@ -72,3 +72,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/MS_ForestFloorV1/Atlases/Chinese_Tallow_sktm0fn_atlas/Albedo_8K_sktm0fn.uasset
+Content/MS_ForestFloorV1/Atlases/Chinese_Tallow_sktm0fn_atlas/Chinese_Tallow_sktm0fn_atlas_inst.uasset
+Content/MS_ForestFloorV1/Atlases/Chinese_Tallow_sktm0fn_atlas/Displacement_8K_sktm0fn.uasset
+Content/MS_ForestFloorV1/Atlases/Chinese_Tallow_sktm0fn_atlas/Normal_8K_sktm0fn.uasset
+*.uasset
+Source/Bark Soil Mix 2x2 M_sesjcefb_Surface/Albedo_8K__sesjcefb.jpg
+Source/Bark Soil Mix 2x2 M_sesjcefb_Surface/Displacement_8K__sesjcefb.exr
+*.jpg
+*.png
+*.exr
+Source/megascansAsset.json
+Content/MSPresets/MSAssets.db
